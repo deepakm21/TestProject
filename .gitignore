@@ -1,0 +1,24 @@
+# === IntelliJ IDEA ===
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# === Maven ===
+target/
+pom.properties
+*.jar
+
+# === Build Logs ===
+*.log
+*.lst
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Misc ===
+*.class
+*.swp
+*.tmp
+*.bak
